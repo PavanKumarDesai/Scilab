@@ -1,3 +1,2 @@
 # Scilab
-scilab-assignment
-assignment for UE18MA251
+scilab-assignment for UE18MA251
